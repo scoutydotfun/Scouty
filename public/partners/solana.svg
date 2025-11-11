@@ -1,0 +1,22 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M15 35L20 30H35L30 35H15Z" fill="url(#solana-gradient-1)"/>
+    <path d="M15 27L20 22H35L30 27H15Z" fill="url(#solana-gradient-2)"/>
+    <path d="M15 43L20 38H35L30 43H15Z" fill="url(#solana-gradient-3)"/>
+    <text x="45" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">Solana</text>
+  </g>
+  <defs>
+    <linearGradient id="solana-gradient-1" x1="15" y1="30" x2="35" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#AAAAAA"/>
+    </linearGradient>
+    <linearGradient id="solana-gradient-2" x1="15" y1="22" x2="35" y2="27" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#CCCCCC"/>
+    </linearGradient>
+    <linearGradient id="solana-gradient-3" x1="15" y1="38" x2="35" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#999999"/>
+    </linearGradient>
+  </defs>
+</svg>
